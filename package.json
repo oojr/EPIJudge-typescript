@@ -1,0 +1,12 @@
+{
+  "name": "epijudge-typescript",
+  "version": "1.0.0",
+  "description": "Elements of Programming Interview answers with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "npm run test -- --watch"
+  },
+  "author": "Olajide Ogundipe Jr",
+  "license": "ISC"
+}
